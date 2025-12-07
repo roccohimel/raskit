@@ -1,5 +1,5 @@
 # Why not use C?
-"Isnit it obvious?"
+"Isn't it obvious?"
                 - You
 
 I kinda just wanted to experiment with Rust a little bit given that I barely use it.
